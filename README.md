@@ -1,3 +1,10 @@
 # React + Vite
 
-***Generates random color 🎨***
+Generates random color 🎨
+
+```bash
+# to run locally
+npm run dev
+```
+
+
