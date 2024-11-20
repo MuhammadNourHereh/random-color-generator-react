@@ -1,3 +1,3 @@
 # React + Vite
 
-Generates random color
+***Generates random color 🎨***
